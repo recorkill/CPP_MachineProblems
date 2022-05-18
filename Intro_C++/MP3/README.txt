@@ -1,0 +1,3 @@
+For this assignment, a C++ program was created to evaluate the most profitable model for an apartment complex to operate by. The parameters for this determination were the total number of units, the minimum rental charge to fill all the units, the cost to maintain each filled unit, and the increase in rental charge required to reduce the units occupied by one resident. 
+
+Once this program received these parameters from the user, a while loop was used to find the most profitable approach by incrementally raising the rent by the amount required to lose one resident and comparing the profit with that of the step before. Once the profit being tested is no longer greater than the profit of the previous step, the true maximum profit has been reached.

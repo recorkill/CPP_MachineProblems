@@ -1,0 +1,3 @@
+For this assignment, a C++ program was created to determine various geometric information regarding a user-given input length. This was accomplished by prompting the user to provide a length, in centimeters; various calculations were performed on this input, and the results were returned to the user. 
+
+Using the input length, this program calculated the area of a circle and a square, using the length as a diameter and a side length, respectively. The difference between these two areas was also calculated, as well as the volume of a cube when the input was rounded up (in meters), as well as down (also in meters). All returned values were provided in meters.
