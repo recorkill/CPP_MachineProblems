@@ -1,0 +1,3 @@
+For this assignment, a C++ program was created where fractions were represented by the class “Fraction”, containing member functions allowing for various mathematical operations (addition, subtraction, multiplication, division) to be performed between two fractions. 
+
+This program prompts a user to enter the numerator and denominator values for two fractions, creating two objects to represent these two fractions. The user is then prompted to enter an operator character (+, -, *, /). The operation is performed, and the resulting fraction is returned to the user. The user is then prompted to enter the letter q or Q to end the program or enter any other letter to perform a new calculation with new fractions.
