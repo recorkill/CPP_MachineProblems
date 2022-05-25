@@ -1,0 +1,3 @@
+For this assignment, a C++ program was provided that would take a series of username and password combinations from a text document and create a hash table from them. This hash table was then used to allow users to enter their username and password, and if the match was found in the hash table, the user’s entry was authenticated. Edits were needed to the program provided for it to work and a text document was created with a series of usernames and passwords from which to create the hash table. 
+
+The program was run with three different outcomes: a correct username/password pair, an incorrect username/password pair, and the user of a username that is not contained in the hash table.
