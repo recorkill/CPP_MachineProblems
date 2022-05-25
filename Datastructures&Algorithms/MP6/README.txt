@@ -1,0 +1,3 @@
+For this assignment, a C++ program was created to demonstrate the four basic mathematical operations between complex numbers. To accomplish this, a class (“Complex”) was created to represent complex numbers, containing both a real part and an imaginary part. The addition, subtraction, multiplication, and division operators were overloaded for this class, as well as the input and output operators. A function was also created to allow the conversion of a string to a complex number object. 
+
+In the main program, the user was prompted to enter a complex number, followed by another complex number. All four mathematical operations were performed between these two complex numbers, and the results were returned to the user.
